@@ -1,0 +1,5 @@
+{
+  "name": "SwiftPOS Mobile",
+  "description": "A minimalist mobile POS platform showcase featuring subscription plans, operational guides, and an AI-powered plan recommender.",
+  "requestFramePermissions": []
+}
